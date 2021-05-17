@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Auth"
+AuthUserFile "https://kazusite.github.io/private"
+require valid-user
